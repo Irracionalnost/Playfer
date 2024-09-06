@@ -1,0 +1,11 @@
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\bin\Debug\RZ_PlaipherShifr.exe.config
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\bin\Debug\RZ_PlaipherShifr.exe
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\bin\Debug\RZ_PlaipherShifr.pdb
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.csproj.AssemblyReference.cache
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.MainForm.resources
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.Properties.Resources.resources
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.csproj.GenerateResource.cache
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.csproj.CoreCompileInputs.cache
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.exe
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.pdb
+C:\Users\506\OneDrive\Рабочий стол\RZ_PlaipherShifr\RZ_PlaipherShifr\obj\Debug\RZ_PlaipherShifr.showMatrixForm.resources
